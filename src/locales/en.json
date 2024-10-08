@@ -1,0 +1,61 @@
+{
+  "about": {
+    "title": "About Us",
+    "content": "We are a company dedicated to providing the best services in the world. Our mission is to..."
+  },
+  "guide": {
+    "title": "Guide",
+    "content": "This is a guide to help you understand how to use our service. First, you need to..."
+  },
+  "incognito": {
+    "title": "Incognito Mode Detected",
+    "message": "Incognito mode detected. Data will be lost when you close the browser.",
+    "button": "I Understand"
+  },
+  "mydecks": {
+    "title": "My Decks",
+    "button": "Go To"
+  },
+  "shareWithMe": {
+    "title": "Share With Me",
+    "button": "Go To"
+  },
+  "link": {
+    "home": "Home"
+  },
+  "createdeckcustom": {
+    "title": "Create New Deck",
+    "createbtn": "Create Deck",
+    "cancelbtn": "Cancel",
+    "error": "already exists."
+  },
+  "createdeckuploadfile": {
+    "title": "Upload File's Deck Content",
+    "uploadbtn": "Upload File",
+    "cancelbtn": "Cancel"
+  },
+  "deckoverview": {
+    "new_card": "New",
+    "learning_card": "Learning",
+    "review_card": "To Review",
+    "addcard_link": "Add Flashcard.",
+    "studybtn": "Study Now"
+  },
+  "feats": [
+    {
+      "title": "Spaced Repetition",
+      "content": "Review times based on card difficulty, helping users learn more efficiently.",
+      "image": "/images/spaced-repetition.png"
+    },
+    {
+      "title": "Card Import",
+      "content":"Users import CSV/XLSX flashcards, customize attributes, and control what shows on each side.",
+      "image": "/images/flashcard.png"
+    },
+    {
+      "title": "Deck Sharing",
+      "content":"Users can quickly share flashcard decks via a link, allowing recipients to use or customize them.",
+      "image": "/images/desk-sharing.png"
+    }
+  ]
+}

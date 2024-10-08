@@ -1,0 +1,62 @@
+{
+  "about": {
+    "title": "Về chúng tôi",
+    "content": "Chúng tôi là một công ty cam kết cung cấp dịch vụ tốt nhất trên thế giới. Sứ mệnh của chúng tôi là..."
+  },
+  "guide": {
+    "title": "Hướng dẫn",
+    "content": "Đây là hướng dẫn để giúp bạn hiểu cách sử dụng dịch vụ của chúng tôi. Đầu tiên, bạn cần..."
+  },
+  "incognito": {
+    "title": "Phát hiện tab ẩn danh",
+    "message": "Phát hiện tab ẩn danh. Dữ liệu được lưu sẽ biến mất khi bạn đóng trình duyệt.",
+    "button": "Tôi đã hiểu"
+  },
+  "mydecks": {
+    "title": "Deck của tôi",
+    "button": "Truy cập"
+  },
+  "shareWithMe": {
+    "title": "Được chia sẽ",
+    "button": "Truy cập"
+  },
+  "link": {
+    "home": "Trang chủ"
+  },
+  "createdeckcustom": {
+    "title": "Tạo mới Deck",
+    "createbtn": "Tạo Deck",
+    "cancelbtn": "Hủy bỏ",
+    "error": "đã tồn tại."
+  },
+
+  "createdeckuploadfile": {
+    "title": "Tải lên File kịch bản",
+    "uploadbtn": "Nhập File",
+    "cancelbtn": "Hủy bỏ"
+  },
+  "deckoverview": {
+    "new_card": "Mới",
+    "learning_card": "Đang học",
+    "review_card": "Cần ôn tập",
+    "addcard_link": "Thêm thẻ ghi nhớ.",
+    "studybtn": "Học Ngay"
+  },
+  "feats": [
+    {
+      "title": "Học Lặp Lại Ngắt Quãng",
+      "content": "Xem lại thời gian dựa trên độ khó của thẻ, giúp người dùng học hiệu quả hơn.",
+      "image": "/images/spaced-repetition.png"
+    },
+    {
+      "title": "Nhập Flashcard từ File CSV/XLSX",
+      "content": "Người dùng nhập thẻ ghi nhớ CSV/XLSX, tùy chỉnh thuộc tính và kiểm soát nội dung hiển thị ở mỗi mặt.",
+      "image": "/images/flashcard.png"
+    },
+    {
+      "title": "Chia Sẻ Bộ Flashcard với Người Dùng Khác",
+      "content": "Người dùng có thể nhanh chóng chia sẻ bộ thẻ ghi nhớ thông qua liên kết, cho phép người nhận sử dụng hoặc tùy chỉnh chúng.",
+      "image": "/images/desk-sharing.png"
+    }
+  ]
+}
